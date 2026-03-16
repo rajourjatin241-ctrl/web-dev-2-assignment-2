@@ -1,6 +1,6 @@
  Weather App
 A simple, interactive weather application built with JavaScript, HTML, and CSS.
-It fetches real-time weather data using the [OpenWeather API](https://openweathermapipt async/macro/microtask logging in a user-friendly console panel.
+It fetches real-time weather data using the [OpenWeather API]console panel.
 ---
  Features
 •  Search weather by city name
